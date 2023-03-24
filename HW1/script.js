@@ -39,9 +39,9 @@ const password = prompt("Please enter your password");
 alert("Dear " + login + " your email is " + email + ", your password is " + password);
 //task8
 const secondsinminute = 60;
-const secondsinhour = secondsinminute*60;
-const secondsinaday = secondsinhour*24;
-const secondsinmonth=secondsinaday*31;
+const secondsinhour = secondsinminute * 60;
+const secondsinaday = secondsinhour * 24;
+const secondsinmonth = secondsinaday * 31;
 
 alert(secondsinhour);
 alert(secondsinaday);
